@@ -12,4 +12,4 @@ npm i
 npm start
 ```
 
-##### Thanks for stopping by
+##### Thanks for stopping by.
